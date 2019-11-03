@@ -1,3 +1,5 @@
+# reference: https://www.raywenderlich.com/2795-beginning-game-programming-for-teens-with-python
+
 # 1 - Import libraries
 import math
 import pygame
